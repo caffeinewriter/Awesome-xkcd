@@ -40,5 +40,7 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
 * [#1335 Now](http://xkcd.com/1335/)
  * [xkcd-now](https://github.com/meandavejustice/xkcd-now/) - Fully client side version of [Now](http://xkcd.com/now/)
  * [XKCD Now!](http://www.xkcdnow.com/) - Another implementation of xkcd Now.
+* [#1340 Unique Date](http://xkcd.com/1340/)
+ * [xkcd-clock](https://github.com/hausen/xkcd-clock) - A clock inspired by xkcd comic number 1340. View it [here](http://moretti.github.io/xkcd-clock/).
 * [#1425 Tasks](https://xkcd.com/1425/)
   * [Park or Bird](http://parkorbird.flickr.com/) - Uses GPS data to determine if a photo was taken in a park, and computer vision to determine if it contains a bird. 

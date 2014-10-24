@@ -29,6 +29,7 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [XKPasswd](https://www.xkpasswd.net/c/index.cgi) - A secure memorable password generator.
 * [#941 Depth Perception](https://xkcd.com/941/)
  * [Come Closer](https://www.youtube.com/watch?v=eqgy3B7qsdU) - A video implementation of xkcd 941.
+ * [Real World Minecraft?](http://www.carbonatedblog.com/2011/08/real-world-minecraft.html) - Another implementation of #941 with Kinects.
 * [#1110 Click and Drag](https://xkcd.com/1110)
  * [Click and Drag as a Map](http://xkcd-map.rent-a-geek.de) - Click and Drag ported into a Leaflet map interface for viewing pleasure. 
 * [#1185 Ineffective Sorts](https://xkcd.com/1185/)

@@ -11,6 +11,8 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [28h](https://github.com/mpl/28h) - Computes and prints a week with 28 hours days.
 * [#426 Geohashing](https://xkcd.com/426/)
  * [Map Lookup](http://carabiner.peeron.com/xkcd/map/map.html) - A sample implementation of xkcd's Geohashing specification.
+* [#481 Listen to Yourself](https://xkcd.com/481/)
+ * [Youtube Audio Preview](http://blag.xkcd.com/2008/10/08/youtube-audio-preview/) - While no longer available, this was essentially the implementation of xkcd #481.
 * [#576 Packages](https://xkcd.com/576/)
  * [xkcd-576](https://web.archive.org/web/20111118181506/http://bieh.net/2010/11/08/xkcd-576/) - Creating a bot to randomly buy items as a surprise gift to yourself. 
 * [#632 Suspicion](https://xkcd.com/632/)

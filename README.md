@@ -11,8 +11,10 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [28h](https://github.com/mpl/28h) - Computes and prints a week with 28 hours days.
 * [#426 Geohashing](https://xkcd.com/426/)
  * [Map Lookup](http://carabiner.peeron.com/xkcd/map/map.html) - A sample implementation of xkcd's Geohashing specification.
-* [#576 Packages](https://xkcd.com/576)
+* [#576 Packages](https://xkcd.com/576/)
  * [xkcd-576](https://web.archive.org/web/20111118181506/http://bieh.net/2010/11/08/xkcd-576/) - Creating a bot to randomly buy items as a surprise gift to yourself. 
+* [#632 Suspicion](https://xkcd.com/632/)
+ * [VK Couple's Testing](https://web.archive.org/web/20100103023116/http://vkcouplestesting.com/) - A CAPTCHA-based, spambot-eliminating love test. (Defunct implementation.)
 * [#688 Self-Description](https://xkcd.com/688/)
  * [xkcd-688](https://github.com/scottsievert/xkcd-688) - xkcd #688 is meta -- it includes information about itself. Why not try and recreate it?
 * [#724 Hell](https://xkcd.com/724/)

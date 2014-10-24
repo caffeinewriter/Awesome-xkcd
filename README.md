@@ -13,6 +13,7 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [28h](https://github.com/mpl/28h) - Computes and prints a week with 28 hours days.
 * [#426 Geohashing](https://xkcd.com/426/)
  * [Map Lookup](http://carabiner.peeron.com/xkcd/map/map.html) - A sample implementation of xkcd's Geohashing specification.
+ * [Scale the Rims](http://app.scaletherims.net/routes/) - A geohashing implementation for the rims in Billings, MT.
 * [#481 Listen to Yourself](https://xkcd.com/481/)
  * [Youtube Audio Preview](http://blag.xkcd.com/2008/10/08/youtube-audio-preview/) - While no longer available, this was essentially the implementation of xkcd #481.
 * [#576 Packages](https://xkcd.com/576/)

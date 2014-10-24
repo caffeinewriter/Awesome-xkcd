@@ -7,5 +7,7 @@ Awesome-XKCD
   * [Hell](http://erif.org/code/Hell/) - A flash version of the hellish Tetris game illustrated in the comic. 
 * [#1185 Ineffective Sorts](https://xkcd.com/1185/)
   * [stacksort](https://gkoberger.github.io/stacksort/) - Implements stacksort, using solutions posted on StackOverflow to sort input. 
+* [#1286 Encryptic](https://xkcd.com/1286/)
+ * [xkcd_1286](https://github.com/geon/xkcd_1286) - A "tool" for exploring and solving passwords based on hints and inter-password shared character sequences.
 * [#1425 Tasks](https://xkcd.com/1425/)
   * [Park or Bird](http://parkorbird.flickr.com/) - Uses GPS data to determine if a photo was taken in a park, and computer vision to determine if it contains a bird. 

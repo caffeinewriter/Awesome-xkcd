@@ -3,12 +3,14 @@ Awesome-xkcd
 
 A simple, curated list of implementations of various [xkcd](https://xkcd.com/) comics.
 
-* [#149 Sandwich](https://xkcd.com/149)
+* [#149 Sandwich](https://xkcd.com/149/)
  * [xkcd149](https://muenchen.ccc.de/xkcd149) - A proof of concept using several physical components to actually make a sandwich. 
 * [#210 90's Flowchart](https://xkcd.com/210/)
  * [Implementing the 90's Flowchart in LabVIEW](http://blog.irodata.com/2011/02/using-finite-state-machine-design.html) - Using LabVIEW's Finite State Machine to implement the flowchart.
 * [#320 28-Hour Day](https://xkcd.com/320/)
  * [28h](https://github.com/mpl/28h) - Computes and prints a week with 28 hours days.
+* [#426 Geohashing](https://xkcd.com/426/)
+ * [Map Lookup](http://carabiner.peeron.com/xkcd/map/map.html) - A sample implementation of xkcd's Geohashing specification.
 * [#576 Packages](https://xkcd.com/576)
  * [xkcd-576](https://web.archive.org/web/20111118181506/http://bieh.net/2010/11/08/xkcd-576/) - Creating a bot to randomly buy items as a surprise gift to yourself. 
 * [#688 Self-Description](https://xkcd.com/688/)

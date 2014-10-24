@@ -1,7 +1,7 @@
 #Style Guide
 
 * Please submit links to the implementations themselves, not writeups explaining them (if possible)
-* Insert new additions in *numeric* order by XKCD comic.
+* Insert new additions in *numeric* order by xkcd comic.
 * Duplicates are allowed, but must be added at the bottom of the current stack.
 * Please follow this format when submitting:
 ```

@@ -33,5 +33,7 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
   * [stacksort](https://gkoberger.github.io/stacksort/) - Implements stacksort, using solutions posted on StackOverflow to sort input. 
 * [#1286 Encryptic](https://xkcd.com/1286/)
  * [xkcd_1286](https://github.com/geon/xkcd_1286) - A "tool" for exploring and solving passwords based on hints and inter-password shared character sequences.
+* [#1335 Now](http://xkcd.com/1335/)
+ * [xkcd-now](https://github.com/meandavejustice/xkcd-now/) - Fully client side version of http://xkcd.com/now/
 * [#1425 Tasks](https://xkcd.com/1425/)
   * [Park or Bird](http://parkorbird.flickr.com/) - Uses GPS data to determine if a photo was taken in a park, and computer vision to determine if it contains a bird. 

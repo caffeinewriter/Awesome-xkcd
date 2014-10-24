@@ -22,6 +22,7 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
 * [#936 Password Strength](https://xkcd.com/936/)
  * [xkcd Password Generator](http://preshing.com/20110811/xkcd-password-generator/) - Generates a phrase using four random, common, English words.
  * [xkcd Password](http://xkcdpassword.com/) - Generate XKCD passwords that are easy to remember and hard to guess. 
+ * [XKPasswd](https://www.xkpasswd.net/c/index.cgi) - A secure memorable password generat
 * [#1110 Click and Drag](https://xkcd.com/1110)
  * [Click and Drag as a Map](http://xkcd-map.rent-a-geek.de) - Click and Drag ported into a Leaflet map interface for viewing pleasure. 
 * [#1185 Ineffective Sorts](https://xkcd.com/1185/)

@@ -1,6 +1,8 @@
 Awesome-xkcd
 ============
 
+A simple, curated list of implementations of various [xkcd](https://xkcd.com/] comics.
+
 * [#149 Sandwich](https://xkcd.com/149)
  * [xkcd149](https://muenchen.ccc.de/xkcd149) - A proof of concept using several physical components to actually make a sandwich. 
 * [#210 90's Flowchart](https://xkcd.com/210/)

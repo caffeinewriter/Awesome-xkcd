@@ -39,6 +39,7 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [Click and Drag as a Map](http://xkcd-map.rent-a-geek.de) - Click and Drag ported into a Leaflet map interface for viewing pleasure. 
 * [#1185 Ineffective Sorts](https://xkcd.com/1185/)
   * [stacksort](https://gkoberger.github.io/stacksort/) - Implements stacksort, using solutions posted on StackOverflow to sort input. 
+  * [Bogosort](http://flanzendorfer.com/bogosort/) - An implementation of bogosort, specified in #1185.
 * [#1190 Time](https://xkcd.com/1190/)
  * [xkcd Time - at your own pace](http://geekwagon.net/projects/xkcd1190/) - A controlled viewer for the massive Time comic, with pauses on user-designated special frames.
  * [xkcd Time Catapult](http://thred.github.io/xkcd-time-catapult/) - A physics simulation of the trebuchet in xkcd's time.

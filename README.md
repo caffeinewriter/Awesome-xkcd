@@ -1,4 +1,4 @@
-Awesome-XKCD
+Awesome-xkcd
 ============
 
 * [#210 90's Flowchart](https://xkcd.com/210/)

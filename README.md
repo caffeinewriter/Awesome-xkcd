@@ -7,6 +7,8 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [xkcd149](https://muenchen.ccc.de/xkcd149) - A proof of concept using several physical components to actually make a sandwich. 
 * [#210 90's Flowchart](https://xkcd.com/210/)
  * [Implementing the 90's Flowchart in LabVIEW](http://blog.irodata.com/2011/02/using-finite-state-machine-design.html) - Using LabVIEW's Finite State Machine to implement the flowchart.
+* [#320 28-Hour Day](https://xkcd.com/320/)
+ * [28h](https://github.com/mpl/28h) - Computes and prints a week with 28 hours days.
 * [#688 Self-Description](https://xkcd.com/688/)
  * [xkcd-688](https://github.com/scottsievert/xkcd-688) - xkcd #688 is meta -- it includes information about itself. Why not try and recreate it?
 * [#724 Hell](https://xkcd.com/724/)

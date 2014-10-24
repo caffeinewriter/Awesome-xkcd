@@ -5,6 +5,8 @@ Awesome-xkcd
  * [xkcd149](https://muenchen.ccc.de/xkcd149) - A proof of concept using several physical components to actually make a sandwich. 
 * [#210 90's Flowchart](https://xkcd.com/210/)
  * [Implementing the 90's Flowchart in LabVIEW](http://blog.irodata.com/2011/02/using-finite-state-machine-design.html) - Using LabVIEW's Finite State Machine to implement the flowchart.
+* [#688 Self-Description](https://xkcd.com/688/)
+ * [xkcd-688](https://github.com/scottsievert/xkcd-688) - xkcd #688 is meta -- it includes information about itself. Why not try and recreate it?
 * [#724 Hell](https://xkcd.com/724/)
   * [Hell](http://erif.org/code/Hell/) - A flash version of the hellish Tetris game illustrated in the comic. 
 * [#936 Password Strength](https://xkcd.com/936/)

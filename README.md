@@ -24,6 +24,8 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [xkcd-688](https://github.com/scottsievert/xkcd-688) - xkcd #688 is meta -- it includes information about itself. Why not try and recreate it?
 * [#724 Hell](https://xkcd.com/724/)
   * [Hell](http://erif.org/code/Hell/) - A flash version of the hellish Tetris game illustrated in the comic. 
+* [#862 Let Go](https://xkcd.com/862)
+ * [Wintermelon](https://github.com/vEnhance/wintermelon) - A forced time delay on refreshing certain websites, referencing the title text of #862.
 * [#936 Password Strength](https://xkcd.com/936/)
  * [xkcd Password Generator](http://preshing.com/20110811/xkcd-password-generator/) - Generates a phrase using four random, common, English words.
  * [xkcd Password](http://xkcdpassword.com/) - Generate XKCD passwords that are easy to remember and hard to guess. 

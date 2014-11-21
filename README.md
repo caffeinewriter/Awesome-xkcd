@@ -54,3 +54,5 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [xkcd-clock](http://moretti.github.io/xkcd-clock/) - A clock inspired by xkcd comic number 1340. [Source code](https://github.com/moretti/xkcd-clock).
 * [#1425 Tasks](https://xkcd.com/1425/)
   * [Park or Bird](http://parkorbird.flickr.com/) - Uses GPS data to determine if a photo was taken in a park, and computer vision to determine if it contains a bird. 
+* [#1446 Landing](https://xkcd.com/1446/) 
+  * [xkcd #1446](http://xkcd1446.org/) - A viewer for xkcd 1446 made my Mark Karpeles.

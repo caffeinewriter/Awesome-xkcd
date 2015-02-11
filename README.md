@@ -11,9 +11,12 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [Genetic Algorithm for Knapsack Problem](http://kataklinger.com/index.php/genetic-algorithm-knapsack/) - This example demonstrates a genetic algorithm that is designed to solve the problem introduced by xkcd #287.
 * [#320 28-Hour Day](https://xkcd.com/320/)
  * [28h](https://github.com/mpl/28h) - Computes and prints a week with 28 hours days.
+* [#353 Python](https://xkcd.com/353/)
+ * [antigravity.py](https://github.com/python/cpython/blob/eb6d28b3e4b5c29ceb64e33d79bec3b193e61ee6/Lib/antigravity.py) - In the python source code. Opens the comic when imported.
 * [#426 Geohashing](https://xkcd.com/426/)
  * [Map Lookup](http://carabiner.peeron.com/xkcd/map/map.html) - A sample implementation of xkcd's Geohashing specification.
  * [Scale the Rims](http://app.scaletherims.net/routes/) - A geohashing implementation for the rims in Billings, MT.
+ * [antigravity.py](https://github.com/python/cpython/commit/f8560170809a0befb729cc6667199c6aca8b1e98) - In the `antigravity` module, which is already a reference to \#353.
 * [#481 Listen to Yourself](https://xkcd.com/481/)
  * [Youtube Audio Preview](http://blag.xkcd.com/2008/10/08/youtube-audio-preview/) - While no longer available, this was essentially the implementation of xkcd #481.
 * [#576 Packages](https://xkcd.com/576/)

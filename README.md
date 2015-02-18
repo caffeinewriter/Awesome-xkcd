@@ -50,6 +50,8 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [xkcd_1286](https://github.com/geon/xkcd_1286) - A "tool" for exploring and solving passwords based on hints and inter-password shared character sequences.
 * [#1288 Substitutions](https://xkcd.com/1288/)
  * [xkcd Substitutions](https://github.com/istepaniuk/xkcd-substitutions) - A GreaseMonkey script that makes the substitutions shown in #1288.
+ * [Fluffify](https://github.com/serverdensity/Fluffify) - Corporate phrases turn our stomach. We're replacing the terms we're so sick of hearing - to a fun equivalent. 
+ * [Cloud-to-Butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'.
 * [#1335 Now](http://xkcd.com/1335/)
  * [xkcd-now](https://github.com/meandavejustice/xkcd-now/) - Fully client side version of [Now](http://xkcd.com/now/)
  * [XKCD Now!](http://www.xkcdnow.com/) - Another implementation of xkcd Now.

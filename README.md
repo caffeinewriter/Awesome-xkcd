@@ -49,6 +49,7 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
 * [#1286 Encryptic](https://xkcd.com/1286/)
  * [xkcd_1286](https://github.com/geon/xkcd_1286) - A "tool" for exploring and solving passwords based on hints and inter-password shared character sequences.
  * [Adove Crossword](http://zed0.co.uk/crossword/) - A crossword based on the Adobe password leak.
+ * [PASSWD ALIAS](http://passwdalias.flowrl.com/) - A collaborative password guessing game using the Adobe leak. 
 * [#1288 Substitutions](https://xkcd.com/1288/)
  * [xkcd Substitutions](https://github.com/istepaniuk/xkcd-substitutions) - A GreaseMonkey script that makes the substitutions shown in #1288.
  * [Fluffify](https://github.com/serverdensity/Fluffify) - Corporate phrases turn our stomach. We're replacing the terms we're so sick of hearing - to a fun equivalent. 

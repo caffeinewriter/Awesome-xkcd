@@ -40,6 +40,9 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [HistoricProgress](https://github.com/JulianCO/HistoricProgress) - An app that tracks completion of a task implementing the algorithm described in #1017.
 * [#1110 Click and Drag](https://xkcd.com/1110)
  * [Click and Drag as a Map](http://xkcd-map.rent-a-geek.de) - Click and Drag ported into a Leaflet map interface for viewing pleasure. 
+* [#1133 Up Goer Five](https://xkcd.com/1133)
+ * [The Up-Goer Five Text Editor](http://splasho.com/upgoer5/) - Write using only the ten hundred most used words, and their different forms. \[[Blog Post](http://splasho.com/blog/2013/01/17/a-bit-more-about-the-up-goer-five-text-editor/)\]
+ * [Cleartext Mac](https://github.com/mortenjust/cleartext-mac) - A ten hundred most used word writing thing for the food computer business box.
 * [#1185 Ineffective Sorts](https://xkcd.com/1185/)
   * [stacksort](https://gkoberger.github.io/stacksort/) - Implements stacksort, using solutions posted on StackOverflow to sort input. 
   * [Bogosort](http://flanzendorfer.com/bogosort/) - An implementation of bogosort, specified in #1185.

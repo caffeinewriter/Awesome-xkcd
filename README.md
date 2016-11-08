@@ -31,7 +31,8 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [Wintermelon](https://github.com/vEnhance/wintermelon) - A forced time delay on refreshing certain websites, referencing the title text of #862.
 * [#936 Password Strength](https://xkcd.com/936/)
  * [xkcd Password Generator](http://preshing.com/20110811/xkcd-password-generator/) - Generates a phrase using four random, common, English words.
- * [xkcd Password](http://xkcdpassword.com/) - Generate XKCD passwords that are easy to remember and hard to guess. 
+ * [xkcd Password](http://xkcdpassword.com/) - Generate XKCD passwords that are easy to remember and hard to guess.
+ * [XKCD password generator](https://github.com/redacted/XKCD-password-generator) - A python-based xkcd-inspired password generator.
  * [XKPasswd](https://www.xkpasswd.net/c/index.cgi) - A secure memorable password generator.
 * [#941 Depth Perception](https://xkcd.com/941/)
  * [Come Closer](https://www.youtube.com/watch?v=eqgy3B7qsdU) - A video implementation of xkcd 941.

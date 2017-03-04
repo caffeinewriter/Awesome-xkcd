@@ -68,4 +68,4 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
 * [#1446 Landing](https://xkcd.com/1446/) 
   * [xkcd #1446](http://xkcd1446.org/) - A viewer for xkcd 1446 made by Mark Karpeles.
 * [#1806 Borrow Your Laptop](https://xkcd.com/1806/)
-  * [Vim implementation](https://udallascs.wordpress.com/2017/03/04/implementation-of-todays-xkcd-in-vim/) -- Maps the scroll wheel to undo/redo in Vim, implementing the mouseover text.
+  * [Vim implementation](https://udallascs.wordpress.com/2017/03/04/implementation-of-todays-xkcd-in-vim/) - Maps the scroll wheel to undo/redo in Vim, implementing the mouseover text.

@@ -34,6 +34,7 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
  * [xkcd Password](http://xkcdpassword.com/) - Generate XKCD passwords that are easy to remember and hard to guess.
  * [XKCD password generator](https://github.com/redacted/XKCD-password-generator) - A python-based xkcd-inspired password generator.
  * [XKPasswd](https://www.xkpasswd.net/c/index.cgi) - A secure memorable password generator.
+ * [CorrectHorseBatteryStaple](http://correcthorsebatterystaple.net/) - An XKCD inspired password generator.
 * [#941 Depth Perception](https://xkcd.com/941/)
  * [Come Closer](https://www.youtube.com/watch?v=eqgy3B7qsdU) - A video implementation of xkcd 941.
  * [Real World Minecraft?](http://www.carbonatedblog.com/2011/08/real-world-minecraft.html) - Another implementation of #941 with Kinects.

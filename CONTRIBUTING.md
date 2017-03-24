@@ -1,4 +1,4 @@
-#Style Guide
+# Style Guide
 
 * Link to a functional implementation. (if possible) A writeup is an acceptable alternative if an active implementation is unavailable. 
 * Insert new additions in *numeric* order by xkcd comic.
